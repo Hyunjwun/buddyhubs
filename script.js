@@ -68,7 +68,7 @@ Contact Person: @Voyrse
 
 4:{
 name:"Wirtze",
-photo:"Wirtze.png",
+photo:"wirtze.png",
 desc:`
 Bots: @WirthzeBot
 Contact Person: @Trudgge
@@ -77,7 +77,7 @@ Contact Person: @Trudgge
 
 5:{
 name:"Hilmy",
-photo:"Hilmy.png",
+photo:"hilmy.png",
 desc:`
 Bots: @KnoballBot
 Contact Person: @gaichose
